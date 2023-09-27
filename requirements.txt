@@ -6,3 +6,4 @@ sentence_transformers
 streamlit
 chromadb
 docx2txt
+pip==23.2.1
