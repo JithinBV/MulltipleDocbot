@@ -5,3 +5,4 @@ pypdf
 sentence_transformers
 streamlit
 chromadb
+docx2txt
