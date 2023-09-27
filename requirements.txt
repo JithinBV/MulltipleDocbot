@@ -3,3 +3,5 @@ bitsandbytes accelerate xformers einops
 datasets loralib sentencepiece
 pypdf
 sentence_transformers
+streamlit
+chromadb
