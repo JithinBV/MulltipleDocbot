@@ -1,4 +1,5 @@
 langchain
+bitsandbytes
 bitsandbytes accelerate xformers einops
 datasets loralib sentencepiece
 pypdf
