@@ -1,4 +1,4 @@
-langchain
+langchain==0.0.315
 pip==22.0.3
 ebitsandbytes
 bitsandbytes accelerate xformers einops
@@ -8,4 +8,4 @@ sentence_transformers
 streamlit
 chromadb
 docx2txt
-pip==22.0.3
+
