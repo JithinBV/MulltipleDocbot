@@ -1,5 +1,6 @@
 langchain
-bitsandbytes
+pip==22.0.3
+ebitsandbytes
 bitsandbytes accelerate xformers einops
 datasets loralib sentencepiece
 pypdf
